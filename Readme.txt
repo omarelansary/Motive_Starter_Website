@@ -5,7 +5,7 @@ I Have bought he domain, and subscribed to hosting service that will meet their 
 I have added the location with a new method to make it easier for the user to access the location by only clicking on the map it will direct the user to google maps mobile application if browsing from mobile phone.
 the photos added for "Team" are just a demo until they photoshoot the real team
 
-you can still see the landing page webpage by clicking on the this github pages link->  
+you can still see the landing page webpage by clicking on the this github pages link-> https://omarelansary.github.io/Motive_Starter_Website/
 
 And currently i am upgrading the website using woo-commerce to be an online store.
 https://motive-industry.com/
